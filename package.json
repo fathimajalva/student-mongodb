@@ -1,0 +1,13 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "Node.js user registration and login system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^7.7.0"
+  }
+}
